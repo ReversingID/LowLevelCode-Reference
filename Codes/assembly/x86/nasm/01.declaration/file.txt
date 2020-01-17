@@ -1,0 +1,1 @@
+A txt resource that will be imported to object file.
